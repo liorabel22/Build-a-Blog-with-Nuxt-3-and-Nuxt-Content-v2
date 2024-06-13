@@ -1,6 +1,8 @@
 ---
-title: My First Blog Post
-episode: 482
+title: "My First Blog Post"
+author: "@bruno"
+dates:
+  published: "2022-05-01"
 ---
 
 # Sample Markdown
