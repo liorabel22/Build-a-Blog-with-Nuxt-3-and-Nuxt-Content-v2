@@ -5,11 +5,11 @@ dates:
   published: "2022-05-01"
 ---
 
-# Sample Markdown
+## Sample Markdown
 
 This is some basic, sample markdown.
 
-## Second Heading
+### Second Heading
 
 - Unordered lists, and:
 
